@@ -6,12 +6,12 @@ function Nav() {
     <>
       <nav className="navbar navbar-expand-lg bg-dark text-white">
         <div className="container">
-          <Link to={""} className="navbar-brand fw-bold">
+          <Link to={"home"} className="navbar-brand fw-bold">
             React Starter
           </Link>
           <div className="collapse navbar-collapse">
             <div className="navbar-nav ms-auto">
-              <Link to={""} className="nav-link">
+              <Link to={"home"} className="nav-link">
                 Home
               </Link>
               <Link to={"about"} className="nav-link">
