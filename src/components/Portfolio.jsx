@@ -18,32 +18,32 @@ function Portfolio() {
             <div className="row gy-4">
               <div className="col-4">
                 <div className="wrapper bg-white bg-opacity-50 rounded">
-                  <img src="./port-01.png" alt="lorem ipsum" />
+                  <img src="./React-Starter/port-01.png" alt="lorem ipsum" />
                 </div>
               </div>
               <div className="col-4">
                 <div className="wrapper bg-white bg-opacity-50 rounded">
-                  <img src="./port-02.png" alt="lorem ipsum" />
+                  <img src="./React-Starter/port-02.png" alt="lorem ipsum" />
                 </div>
               </div>
               <div className="col-4">
                 <div className="wrapper bg-white bg-opacity-50 rounded">
-                  <img src="./port-03.png" alt="lorem ipsum" />
+                  <img src="./React-Starter/port-03.png" alt="lorem ipsum" />
                 </div>
               </div>
               <div className="col-4">
                 <div className="wrapper bg-white bg-opacity-50 rounded">
-                  <img src="./port-04.png" alt="lorem ipsum" />
+                  <img src="./React-Starter/port-04.png" alt="lorem ipsum" />
                 </div>
               </div>
               <div className="col-4">
                 <div className="wrapper bg-white bg-opacity-50 rounded">
-                  <img src="./port-05.png" alt="lorem ipsum" />
+                  <img src="./React-Starter/port-05.png" alt="lorem ipsum" />
                 </div>
               </div>
               <div className="col-4">
                 <div className="wrapper bg-white bg-opacity-50 rounded">
-                  <img src="./port-06.png" alt="lorem ipsum" />
+                  <img src="./React-Starter/port-06.png" alt="lorem ipsum" />
                 </div>
               </div>
             </div>
