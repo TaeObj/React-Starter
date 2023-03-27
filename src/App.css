@@ -1,0 +1,48 @@
+#root .navbar a {
+  color: #fff;
+}
+
+#root main > section {
+  min-height: calc(100vh - 252px);
+}
+
+#root main > section .container {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.fa-circle-user {
+  font-size: 3em;
+}
+
+#portfolio .wrapper {
+  border: 3px solid #ccc;
+  transition: all 0.2s linear;
+}
+
+#portfolio .wrapper:hover {
+  border-color: orange;
+  background: #eee !important;
+}
+
+#portfolio img {
+  max-width: 128px;
+  margin: 64px 0;
+  border-radius: 50%;
+  padding: 15px;
+  background-color: wheat;
+  border: 4px solid #ccc;
+  transition: all 0.2s linear;
+}
+#portfolio .wrapper:hover img {
+  border-color: tomato;
+}
+
+footer a {
+  color: wheat;
+  transition: all 0.5s linear;
+}
+
+footer a:hover {
+  color: aquamarine;
+}
