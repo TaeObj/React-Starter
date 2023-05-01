@@ -5,6 +5,9 @@ import App from "./App";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "@fortawesome/fontawesome-free/css/all.min.css";
 import reportWebVitals from "./reportWebVitals";
+/* Slick Carousel for Categories Slider in Homepage */
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
